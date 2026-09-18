@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
