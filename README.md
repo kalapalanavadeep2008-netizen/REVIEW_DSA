@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
