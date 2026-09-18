@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0441-arranging-coins) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Binary Search
 |  |
