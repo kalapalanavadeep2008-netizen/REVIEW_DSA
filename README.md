@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0441-arranging-coins](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0441-arranging-coins) |
 ## Interactive
 |  |
 | ------- |
