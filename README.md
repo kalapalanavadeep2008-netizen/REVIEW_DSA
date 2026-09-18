@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
