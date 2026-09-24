@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Interactive
 |  |
 | ------- |
