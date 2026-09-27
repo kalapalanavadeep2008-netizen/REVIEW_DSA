@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Database
+|  |
+| ------- |
+| [1789-primary-department-for-each-employee](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
