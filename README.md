@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1068-product-sales-analysis-i) |
 | [1789-primary-department-for-each-employee](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1978-employees-whose-manager-left-the-company) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
