@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1068-product-sales-analysis-i) |
+| [1527-patients-with-a-condition](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1527-patients-with-a-condition) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1789-primary-department-for-each-employee) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1978-employees-whose-manager-left-the-company) |
