@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1207-unique-number-of-occurrences](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
 | [1207-unique-number-of-occurrences](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Greedy
@@ -101,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
