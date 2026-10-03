@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0709-to-lower-case) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
