@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1207-unique-number-of-occurrences](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1672-richest-customer-wealth) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0409-longest-palindrome) |
+| [1207-unique-number-of-occurrences](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Greedy
 |  |
 | ------- |
