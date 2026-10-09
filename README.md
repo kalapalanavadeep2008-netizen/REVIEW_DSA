@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1207-unique-number-of-occurrences](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
