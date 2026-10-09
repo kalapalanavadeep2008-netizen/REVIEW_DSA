@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
+| [0303-range-sum-query-immutable](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0485-max-consecutive-ones) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kalapalanavadeep2008-netizen/REVIEW_DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
